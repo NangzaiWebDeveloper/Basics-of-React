@@ -5,7 +5,9 @@
 // import Four from "./components/Four"
 // import Five from "./components/Five"
 // import Six from "./components/Six"
-import Seven from "./components/Seven"
+// import Seven from "./components/Seven"
+import Eight from "./components/Eight"
+import Nine from "./components/Nine"
 
 function App() {
 
@@ -17,7 +19,9 @@ function App() {
       {/* <Four></Four> */}
       {/* <Five></Five> */}
       {/* <Six></Six> */}
-      <Seven></Seven>
+      {/* <Seven></Seven> */}
+      {/* <Eight></Eight> */}
+      <Nine></Nine>
 
     </>
   )
